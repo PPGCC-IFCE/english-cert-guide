@@ -2,9 +2,14 @@
 
 > Este guia foi criado para auxiliar estudantes do Programa de Pós-Graduação em Ciência da Computação (PPGCC) do IFCE a encontrarem testes de proficiência em inglês aceitos pelo programa.
 
-### 📋 Requisitos do PPGCC
-<!-- - Nível mínimo exigido: B1 (intermediário) no quadro comum europeu
-- Prazo para apresentação: conforme regulamento vigente do programa (falta obter a info ainda) -->
+### 📋 Requisitos do PPGCC (IFCE – Ciência da Computação)
+
+- O curso exige **comprovação de proficiência em inglês** como critério obrigatório para alunos regulares.
+- Os detalhes completos sobre prazos, documentos aceitos e como fazer a solicitação estão disponíveis **[neste documento](proficiencia-ingles-ppgcc.md)**.
+- Além da proficiência, o programa exige 24 créditos em disciplinas e 6 créditos referentes à dissertação.
+- O prazo máximo para conclusão do curso é de **30 meses**.
+
+> ⚠️ O não envio da comprovação dentro do prazo pode resultar no desligamento do curso.
 
 ## 🆓 Testes Gratuitos Online
 
