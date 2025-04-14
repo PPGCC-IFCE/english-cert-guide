@@ -74,14 +74,6 @@
   - 📚 Foco: Leitura acadêmica
 - **Link:** [proficienciadlle.com](https://www.proficienciadlle.com/novo/)
 
-### 7. 🏫 FUVEST/USP - Exame Online
-- **Descrição:** Exame de Proficiência em Línguas Estrangeiras da USP
-- **Informações Importantes:**
-  - 💻 Formato: Online em datas específicas
-  - 💰 Taxa: R$ 180,00
-  - 📚 Foco: Leitura acadêmica
-- **Link:** [fuvest.br](https://www.fuvest.br/proficiencia/)
-
 ## 🏛️ Testes Presenciais em Fortaleza/CE
 
 ### 1. 🌟 IELTS na Cultura Inglesa
