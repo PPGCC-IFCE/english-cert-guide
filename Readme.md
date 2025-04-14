@@ -25,17 +25,6 @@
 - **Descrição:** Teste com 60 questões que abrangem níveis do CEFR de A1 a C2, com opção de certificado pago
 - **Link:** [englishradar.com](https://www.englishradar.com/english-test/)
 
-### 4. 🎓 Cambridge English
-- **Descrição:** Teste rápido para identificar qual exame Cambridge é adequado para você; gratuito, mas sem certificado
-- **Link:** [cambridgeenglish.org](https://www.cambridgeenglish.org/test-your-english/)
-
-### 5. 📱 Preply
-- **Descrição:** Teste de 36 questões que avalia rapidamente seu nível de inglês; gratuito, mas sem certificado
-- **Link:** [preply.com](https://preply.com/en/language-tests/english)
-
-### 6. 🌐 Kaplan International
-- **Descrição:** Teste de nivelamento online gratuito para avaliar suas habilidades em inglês; sem certificado
-- **Link:** [kaplaninternational.com](https://www.kaplaninternational.com/free-english-test-online)
 
 ## 💰 Testes Pagos Online
 
